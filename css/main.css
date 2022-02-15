@@ -134,7 +134,7 @@ header{}
                 display: none;
                 animation: faceIn 0.25s linear;
             }
-            .header_nav-bar .right_heading>#hover:hover .item_child{
+            .header_nav-bar .right_heading #hover:hover .item_child{
                 display: block;
             }
                 .header_nav-bar .right_heading .item_child li{
