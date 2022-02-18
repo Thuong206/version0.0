@@ -374,6 +374,9 @@ header{}
                 width: 370px;
                 cursor: pointer;
             }
+            .block_items>div>div>img{
+                width: 120px;
+            }
                 .block_item:hover .block_item-img img{
                     transform: scale(1.2);
                 }
